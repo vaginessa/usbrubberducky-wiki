@@ -1,4 +1,4 @@
-# WiFi Pineapple Wiki
+# USB Rubber Ducky Wiki
 
 [Home](index.md)
 
