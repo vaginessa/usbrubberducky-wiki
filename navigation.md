@@ -7,3 +7,5 @@
 [DuckyScript](duckyscript.md)
 
 [Ducky Forums](https://forums.hak5.org/index.php?/forum/56-usb-rubber-ducky/)
+
+[gimmick:themechooser](Wiki Theme)
