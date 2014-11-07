@@ -1,8 +1,7 @@
 ![USB Rubber Ducky](images/d1.jpg)
 
 ##Purchase
-The USB Rubber Ducky is currently in stock and shipping world-wide today from [The HakShop](http://hakshop.myshopify.com/products/usb-rubber-ducky).
-Bulk discounts available for accredited educational institutions, government, military and non-profit hackerspaces. [Request a Quote](http://hakshop.myshopify.com/pages/contact)
+* The USB Rubber Ducky is currently in stock and shipping world-wide today from [The HakShop](http://hakshop.myshopify.com/products/usb-rubber-ducky).
 
 ##About the USB Rubber Ducky
 **The Original Keystroke Injection Tool**
@@ -25,7 +24,7 @@ By taking advantage of this inherent trust with scripted keystrokes at speeds be
 ---
 
 ![Simple Ducky Payload](images/payload.png)
-##Simply Simple.
+## Simple Scripting Language
 USB Rubber Ducky's scripting language makes writing payloads simple. No programming experience needed.
 
 * Typing "<i>Hello World</i>" is as simple as programming <i>STRING Hello World</i></li>
